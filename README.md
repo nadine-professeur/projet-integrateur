@@ -41,4 +41,4 @@ J'ai choisi Arduino avec un senseur d'humidité.
 ## App mobile
 
 Je choisis PhoneGap
-Maquette : 
+Maquette : https://github.com/nadine-professeur/projet-integrateur/blob/main/maquette-mobile.png
